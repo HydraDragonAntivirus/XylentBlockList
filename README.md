@@ -3,3 +3,4 @@
  Sorry for not restoring ipv6 before
  There tracking cookie website from google detected by HitmanPro you can remove manually
  There too many false positives in list and you can manually report them for whitelist look the xylent.sourceforge.io
+ whitelist is not updated
